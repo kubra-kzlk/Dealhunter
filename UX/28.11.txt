@@ -1,0 +1,25 @@
+pp kleur:
+kleuren combi: analoog: kleuren die dicht bij elk liggen, kunnen koude en warme kleuren zn
+
+monochroomatisch: bv alle kleuren  geel
+
+contrast; comple: creeen sorrt v spanning, kl die tegen elk staaan
+
+split comple: minder spanning
+
+triadisch: 
+
+bank: blauw, groen
+speelgoed: geel
+koffie; bruin
+tuinarchitect: groen
+
+
+USABILTY
+belangrijkste zaak om gb niet te frustreren
+gebruiksvriendelijkheid: dr tests te doen, natesten of product goed is of niet
+soorten: live: scenario's uitwerken met taken die de users moeten uitvoeren, moderator gt live alles opvolgen
+	remote: ndl: mist live interactie. taken op afstand uitvoeren, prioriteit: mensen helpen om goedkope dingen te vinden. duidelijk maken dat je de niet de gb maar de app gt testen.
+	A/B testing: 1 app, 2 verschillende versies
+	5 sec test: eerste indruk vd app opmeten
+analyse en aanpak: alle prob oplijsten, hierarchi sorteren, ng n lijst met mak oplosbare taken
